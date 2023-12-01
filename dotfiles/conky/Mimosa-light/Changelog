@@ -1,0 +1,25 @@
+Changelog
+------------------------------
+Mimosa Light - Conky Theme
+[ Leonis Themes Pack ] 
+
+by Closebox73
+------------------------------
+
+v1.0
+date : 11 Agt 2022
+-	Initial release
+
+
+v1.5
+date : 12 Sep 2022
+-	Add override_utf8_locale line
+-	A few changes to the script
+
+
+v2.0
+date : 01 Feb 2023
+-	Add License
+-	Add Changelog file
+-	A few changes to the script
+-	Minimize archive size

@@ -1,0 +1,39 @@
+* {
+    foreground:           rgba(255, 255, 255, 100%);
+    selected-foreground:  rgba(0, 0, 0, 100%);
+    
+    background:           #282A36;
+    background-solid:     #282A36;
+    background-solid:     #282A36;
+    background-solid:     #282A36;
+    
+    // a8b0d5
+
+    /*
+       selected-background:  #fe6c5a;
+       selected-background:  #1994fd;
+    */
+
+    // **** green
+    selected-background: #6272A4;    
+
+    selected-background: #6272A4;
+    selected-background: #6272A4;
+    selected-background: #6272A4;
+
+    selected-background: #6272A4;
+    selected-background-alt: #6272A4;
+    selected-background-gradient: linear-gradient(#6272A4, #6272A4);
+    /*#87b5d7;*/  
+    /*#6eacda;*/
+    /*#deca72;*/
+    /*#39c9fe;*/
+    
+    
+    unselected-background:  #44475A;
+    
+    red: rgba(220, 50, 47, 100%);
+    blue: rgba(38, 139, 210, 100%);
+    // purple: #BD93F9;
+    purple: #3D486A;
+}
