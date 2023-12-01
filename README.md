@@ -22,3 +22,16 @@ Repository containing current Arch/i3 dotfiles
 - Process Viewer: htop
 - Desktop Widgets: conky
 - Display Manager: LightDM
+
+## Showcase
+
+|    |    |
+|:-------:|:-------:|
+|<img src="/images/neofetch.png" width="500">|<img src="/images/code.png" width="500">|
+|**neofetch**|**VS Code**|
+|    |    |
+|<img src="/images/rofi.png" width="500">|<img src="/images/thunar.png" width="500">|
+|**Rofi**|**Thunar**|
+|    |    |
+|<img src="/images/multiwindow.png" width="500">|<img src="/images/htop.png" width="500">|
+|**Multi-window**|**htop**|
